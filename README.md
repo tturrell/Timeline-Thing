@@ -21,13 +21,10 @@ Nothing yet.
 ## Schedule
 
 ### First Milestone (Fri Apr 15)
-What exactly will be turned in on this day? 
 
 ### Second Milestone (Fri Apr 22)
-What exactly will be turned in on this day? 
 
 ### Final Presentation (last week of semester)
-What additionally will be done in the last chunk of time?
 
 ## Group Responsibilities
 
