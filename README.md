@@ -1,7 +1,7 @@
 # Project Title: Timeline Thing
 
 ### Statement
-A Timeline builder to help plan large scale projects
+A Timeline builder creates a dynamic html web timeline
 
 ### Analysis
 The idea is based on building a timeline from an existing database, so we will be working with databases like the ones from earlier in the semester.
