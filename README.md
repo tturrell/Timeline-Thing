@@ -34,5 +34,5 @@ Jake is the team lead. Additionally, Jake will work on...
 ### Tyrone Turrel @
 Will work on...
 
-### Saurabh Verma @
+### Saurabh Verma @sv-uml
 Saurabh will be working on the front-end (HTML and CSS) as well as assisting the team in the development of the backend architecture.
