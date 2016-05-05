@@ -125,5 +125,5 @@
 
 (provide timeline? timeline-posts timeline post-id post-row post?
          post? post-author post-date post-comments timeline-db
-         initialize-timeline! post-event post-content timeline-insert-post-temp!
+         initialize-timeline! post-event post-content post post-timeline
          timeline-insert-post! post-insert-comment!)
