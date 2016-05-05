@@ -1,5 +1,9 @@
 #lang web-server/insta
- 
+
+
+;; Jacob Suarez (@Onamar), Tyrone Turrel(@tturrell), Saurabh Verma (@sv-uml)
+
+;;; Stuff goes here
 (require web-server/formlets
          "ty-model.rkt")
 (require racket/list db )
